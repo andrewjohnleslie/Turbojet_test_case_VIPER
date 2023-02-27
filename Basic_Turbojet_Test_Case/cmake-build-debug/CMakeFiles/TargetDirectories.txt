@@ -1,0 +1,3 @@
+G:/Programming/C++/Basic_Turbojet_Test_Case/cmake-build-debug/CMakeFiles/Test_cases.dir
+G:/Programming/C++/Basic_Turbojet_Test_Case/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Programming/C++/Basic_Turbojet_Test_Case/cmake-build-debug/CMakeFiles/rebuild_cache.dir
